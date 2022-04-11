@@ -38,14 +38,14 @@ body {
 }
 
 #title1 {
-    margin-left: 570px;
+    margin-left: 580px;
     margin-top: -320px;
 }
 
 #content1 {
     margin-left: 505px;
     margin-top: -20px;
-    margin-right: -20px;
+    margin-right: 0px;
 }
 
 #ralph {
@@ -57,19 +57,34 @@ body {
 /* Box 2 */
 
 #box2 {
-    background-color: yellow;
+    background-color: #422209b6;
+}
+
+#title2 {
+    margin-left: 600px;
+    margin-top: -285px;
 }
 
 
 /* Box 3 */
 
 #box3 {
-    background-color: green;
+    background-color: #422209ab;
+}
+
+#title3 {
+    margin-left: 480px;
+    margin-top: -285px;
 }
 
 
 /* Box 4 */
 
 #box4 {
-    background-color: red;
+    background-color: #81491c85;
+}
+
+#title4 {
+    margin-left: 600px;
+    margin-top: -310px;
 }
