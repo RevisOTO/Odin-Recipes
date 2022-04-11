@@ -1,0 +1,75 @@
+body {
+    background-image: url(https://cdn02.plentymarkets.com/g0dvqlm68way/item/images/1035/full/5196-4P-1-Wood-Texture.jpg);
+}
+
+#header1 {
+    font-size: 50px;
+    color: white;
+}
+
+.maincontent {
+    display: grid;
+    width: 100vw;
+    height: 100vh;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 52% 52%;
+    grid-template-areas: 'box1 box2' 'box3 box4';
+}
+
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+
+.content {
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(202, 202, 202);
+}
+
+
+/* Boxes */
+
+
+/* Box 1 */
+
+#box1 {
+    background-color: #81491c85;
+}
+
+#title1 {
+    margin-left: 570px;
+    margin-top: -320px;
+}
+
+#content1 {
+    margin-left: 505px;
+    margin-top: -20px;
+    margin-right: -20px;
+}
+
+#ralph {
+    margin-left: 750px;
+    width: 200px;
+}
+
+
+/* Box 2 */
+
+#box2 {
+    background-color: yellow;
+}
+
+
+/* Box 3 */
+
+#box3 {
+    background-color: green;
+}
+
+
+/* Box 4 */
+
+#box4 {
+    background-color: red;
+}
